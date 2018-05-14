@@ -19,7 +19,7 @@ import cucumber.api.junit.Cucumber;
 	public class TestRunner {
 	 
 	}
-	
+	// comment added by samir for new commit/update test.
 	//ORed : tags = {"@SmokeTest , @RegressionTest"} -- execute all tests tagged as @SmokeTest OR @RegressionTest
 	//ANDed : tags = tags = {"@SmokeTest" , "@RegressionTest"} -- execute all tests tagged as @SmokeTest AND @RegressionTest
 	
